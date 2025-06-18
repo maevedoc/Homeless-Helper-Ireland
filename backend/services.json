@@ -18,5 +18,65 @@
     "website": "https://www.simon.ie/",
     "lat": 53.270668,
     "lng": -9.05679
+  },
+  {
+    "id": 3,
+    "name": "Focus Ireland",
+    "address": "15 Eustace Street, Dublin, Dublin City",
+    "phone": "+353 1 671 2555",
+    "type": "Shelter & Support",
+    "website": "https://www.focusireland.ie",
+    "lat": 53.3441,
+    "lng": -6.2603
+  },
+  {
+    "id": 4,
+    "name": "Simon Communities of Ireland",
+    "address": "Coleraine House, Coleraine St, Smithfield, Dublin",
+    "phone": "+353 1 671 5551",
+    "type": "Shelter & Support",
+    "website": "https://www.simon.ie",
+    "lat": 53.3478,
+    "lng": -6.2805
+  },
+  {
+    "id": 5,
+    "name": "Threshold",
+    "address": "21 Stoneybatter, Dublin, Dublin City",
+    "phone": "+353 1 677 8594",
+    "type": "Housing Advice",
+    "website": "https://www.threshold.ie",
+    "lat": 53.3505,
+    "lng": -6.2800
+  },
+  {
+    "id": 6,
+    "name": "Respond",
+    "address": "High Park Campus, Grace Park Rd, Whitehall, Dublin",
+    "phone": "+353 1 866 5800",
+    "type": "Emergency Accommodation",
+    "website": "https://www.respond.ie",
+    "lat": 53.3710,
+    "lng": -6.2490
+  },
+  {
+    "id": 7,
+    "name": "Crosscare Migrant Project",
+    "address": "1 Cathedral St, Dublin, Dublin City",
+    "phone": "+353 1 836 0011",
+    "type": "Support for Migrants",
+    "website": "https://www.migrantproject.ie",
+    "lat": 53.3440,
+    "lng": -6.2700
+  },
+  {
+    "id": 8,
+    "name": "The Mendicity Institution",
+    "address": "9 Island St, The Liberties, Dublin",
+    "phone": "+353 1 677 8854",
+    "type": "Meals & Support",
+    "website": "https://www.mendicity.org",
+    "lat": 53.3431,
+    "lng": -6.2807
   }
 ]
