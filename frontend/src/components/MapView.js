@@ -1,6 +1,6 @@
 import React from 'react';
 
-const googleMapsApiKey = 'AIzaSyBoDDFPs3U9dj2sy78fw-ixBOOudsulxIw';
+const googleMapsApiKey = process.env.REACT_APP_GOOGLE_MAPS_API_KEY;
 
 export default function MapView({ services }) {
   React.useEffect(() => {

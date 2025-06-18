@@ -9,7 +9,7 @@ import Info from './pages/Info'; // <-- make sure this file exists
 function HomePage({ services }) {
   return (
     <div style={{ padding: '20px' }}>
-      <h1>Homeless Helper Ireland</h1>
+      <h1>Together Ireland</h1>
       <MapView services={services} />
       <ServiceList services={services} />
       <HelpRequestForm />
