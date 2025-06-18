@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Focus Ireland - Dublin Shelter",
+    "address": "123 Main St, Dublin 1",
+    "phone": "+353 1 123 4567",
+    "type": "Shelter",
+    "website": "https://www.focusireland.ie/",
+    "lat": 53.349805,
+    "lng": -6.26031
+  },
+  {
+    "id": 2,
+    "name": "Simon Communities - Galway Support Centre",
+    "address": "45 Abbey St, Galway",
+    "phone": "+353 91 123456",
+    "type": "Support Centre",
+    "website": "https://www.simon.ie/",
+    "lat": 53.270668,
+    "lng": -9.05679
+  }
+]
