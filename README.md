@@ -33,10 +33,3 @@ Homeless Helper Ireland is a web application designed to help connect individual
 - Node.js & npm installed
 - Google Maps API key (replace placeholder in `MapView.js`)
 
-### Clone the repo
-
-```bash
-git clone https://github.com/maevedoc/Homeless-Helper-Ireland.git
-cd Homeless-Helper-Ireland/frontend
-npm install
-npm start
