@@ -1,6 +1,6 @@
 # Together Ireland
 
-Homeless Helper Ireland is a web application designed to help connect individuals experiencing homelessness in Ireland with essential services such as shelters, food banks, and support centers. The platform provides a live map and detailed list of available services, with the ability to submit requests for help.
+Together Ireland is a web application designed to help connect individuals experiencing homelessness in Ireland with essential services such as shelters, food banks, and support centers. The platform provides a live map and detailed list of available services, with the ability to submit requests for help.
 
 ## 🌐 Live Demo
 
